@@ -50,7 +50,3 @@ greedy-cloud-latency-ml/
     └── .gitkeep
 ```
 
-## Authors
-- YOUR_NAME_HERE (add contact or LinkedIn)
-#- Add collaborators if applicable
-```
